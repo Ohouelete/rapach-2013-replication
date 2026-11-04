@@ -1,0 +1,6 @@
+# Les données Finaeon / Global Financial Data sont sous licence : ne jamais les ajouter.
+data/*
+!data/README.md
+*.dta
+*.log
+__pycache__/
